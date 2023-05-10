@@ -4,5 +4,7 @@ practice.py is the code that i'm currently running for my experiment, which i mo
 
 all other files (listed below) needs to be under the same directory as your code file
 - EyeLinkCoreGraphicsPsychoPy.py
-- three .wav files
-- images folder
+- the three .wav files
+- the images folder
+
+the /images/practice_set directory is the stimuli set for practice.py to run, you may remove it later
